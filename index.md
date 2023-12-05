@@ -6,3 +6,8 @@
 
 
 var myVar = "¡Hola mundo!";
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce mysel
